@@ -1,6 +1,6 @@
 # API Findings: JSONPlaceholder
 
-**Testers:** Ahmad Adam Ali, Gan Jeng Jie, Wan Qistina, Sathineswary  
+**Testers:** Ahmad Adam Ali, Gan Jeng Jie, Wan Qistina
 **Date:** 26 October 2026  
 **Application:** https://jsonplaceholder.typicode.com  
 **Method:** Actual HTTP requests sent with Python `requests`, before finalizing the tests.  
