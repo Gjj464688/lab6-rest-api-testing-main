@@ -73,7 +73,7 @@ The lab README explicitly requires these files to be committed:
 
 Also include the corrected `README.md`. The updated inspection script, `.gitignore`, guide, and `evidence/` are useful supporting files.
 
-The supplied lab directory is an extracted ZIP and has no Git repository or remote. To submit through GitHub, use the group's Lab 6 repository: clone it, copy the completed files into that clone, then run the following from the cloned repository:
+The completed lab is connected to [your Lab 6 repository](https://github.com/Gjj464688/lab6-rest-api-testing-main). For future changes, run the following from the inner Lab 6 folder containing `test_api.py`:
 
 ```powershell
 git add test_api.py test_public_api.py API_FINDINGS.md README.md Inspect_api.py .gitignore LAB6_GUIDE.md evidence/
@@ -81,4 +81,4 @@ git commit -m "Complete Lab 6 REST API tests and verified findings"
 git push
 ```
 
-Do not add `.venv/` or Python cache folders. The included `.gitignore` excludes them. The correct Lab 6 repository link is needed before these files can be connected to a GitHub submission.
+Do not add `.venv/` or Python cache folders. The included `.gitignore` excludes them. The repository's `origin` is `https://github.com/Gjj464688/lab6-rest-api-testing-main.git`.
